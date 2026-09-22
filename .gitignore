@@ -1,0 +1,29 @@
+# ---------------------------------------------------------------------------
+# Raw dataset (127 MB) - not redistributed here.
+# Download from the UCI Machine Learning Repository, see README -> Getting started
+# ---------------------------------------------------------------------------
+household_power_consumption.txt
+
+# ---------------------------------------------------------------------------
+# Large regenerable artefacts.
+# Every file below is reproduced deterministically (SEED=42) by re-running the
+# pipeline, so it is kept out of version control.
+# ---------------------------------------------------------------------------
+*.parquet
+*.npy
+*.pkl
+outputs/models/rf_model.joblib
+
+# ---------------------------------------------------------------------------
+# Caches and local tooling
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.cache.sqlite
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db

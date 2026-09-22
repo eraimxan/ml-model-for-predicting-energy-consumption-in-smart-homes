@@ -1,0 +1,1684 @@
+{
+  "readings": [
+    {
+      "timestamp": "2010-11-19T21:00:00",
+      "Global_active_power": 1.7783666666666667,
+      "Global_reactive_power": 0.030833333333333334,
+      "Voltage": 234.30133333333333,
+      "Global_intensity": 7.536666666666666,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 719.0
+    },
+    {
+      "timestamp": "2010-11-19T22:00:00",
+      "Global_active_power": 0.6019666666666666,
+      "Global_reactive_power": 0.060899999999999996,
+      "Voltage": 239.49016666666665,
+      "Global_intensity": 2.5233333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 148.0
+    },
+    {
+      "timestamp": "2010-11-19T23:00:00",
+      "Global_active_power": 0.3342,
+      "Global_reactive_power": 0.11763333333333333,
+      "Voltage": 244.80283333333333,
+      "Global_intensity": 1.41,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 44.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-20T00:00:00",
+      "Global_active_power": 0.3169666666666667,
+      "Global_reactive_power": 0.10626666666666668,
+      "Voltage": 244.745,
+      "Global_intensity": 1.3933333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 38.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-20T01:00:00",
+      "Global_active_power": 0.28490000000000004,
+      "Global_reactive_power": 0.05893333333333333,
+      "Voltage": 243.41649999999998,
+      "Global_intensity": 1.2233333333333332,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-20T02:00:00",
+      "Global_active_power": 0.3567,
+      "Global_reactive_power": 0.06676666666666667,
+      "Voltage": 243.18566666666666,
+      "Global_intensity": 1.52,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-20T03:00:00",
+      "Global_active_power": 0.31026666666666664,
+      "Global_reactive_power": 0.09346666666666666,
+      "Voltage": 243.39533333333333,
+      "Global_intensity": 1.3299999999999998,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 42.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-20T04:00:00",
+      "Global_active_power": 0.3265333333333333,
+      "Global_reactive_power": 0.11973333333333333,
+      "Voltage": 244.97716666666665,
+      "Global_intensity": 1.4366666666666668,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 36.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-20T05:00:00",
+      "Global_active_power": 0.8852666666666666,
+      "Global_reactive_power": 0.07666666666666666,
+      "Voltage": 243.7086666666667,
+      "Global_intensity": 3.6666666666666665,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 595.0
+    },
+    {
+      "timestamp": "2010-11-20T06:00:00",
+      "Global_active_power": 0.7865666666666667,
+      "Global_reactive_power": 0.0514,
+      "Voltage": 245.69816666666665,
+      "Global_intensity": 3.243333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 414.0
+    },
+    {
+      "timestamp": "2010-11-20T07:00:00",
+      "Global_active_power": 2.6342333333333334,
+      "Global_reactive_power": 0.11436666666666667,
+      "Voltage": 240.19183333333334,
+      "Global_intensity": 10.946666666666665,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 43.0,
+      "Sub_metering_3": 1062.0
+    },
+    {
+      "timestamp": "2010-11-20T08:00:00",
+      "Global_active_power": 1.9728333333333334,
+      "Global_reactive_power": 0.11343333333333333,
+      "Voltage": 241.39283333333333,
+      "Global_intensity": 8.123333333333333,
+      "Sub_metering_1": 21.0,
+      "Sub_metering_2": 33.0,
+      "Sub_metering_3": 1071.0
+    },
+    {
+      "timestamp": "2010-11-20T09:00:00",
+      "Global_active_power": 1.8750666666666664,
+      "Global_reactive_power": 0.0542,
+      "Voltage": 241.83416666666665,
+      "Global_intensity": 7.736666666666666,
+      "Sub_metering_1": 514.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1076.0
+    },
+    {
+      "timestamp": "2010-11-20T10:00:00",
+      "Global_active_power": 1.2921333333333334,
+      "Global_reactive_power": 0.15616666666666665,
+      "Voltage": 239.72166666666666,
+      "Global_intensity": 5.516666666666667,
+      "Sub_metering_1": 524.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 190.0
+    },
+    {
+      "timestamp": "2010-11-20T11:00:00",
+      "Global_active_power": 2.691133333333333,
+      "Global_reactive_power": 0.19723333333333332,
+      "Voltage": 239.45166666666668,
+      "Global_intensity": 11.45,
+      "Sub_metering_1": 899.0,
+      "Sub_metering_2": 48.0,
+      "Sub_metering_3": 1016.0
+    },
+    {
+      "timestamp": "2010-11-20T12:00:00",
+      "Global_active_power": 1.1306,
+      "Global_reactive_power": 0.14536666666666667,
+      "Voltage": 241.35983333333334,
+      "Global_intensity": 4.863333333333333,
+      "Sub_metering_1": 26.0,
+      "Sub_metering_2": 593.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-20T13:00:00",
+      "Global_active_power": 1.2979999999999998,
+      "Global_reactive_power": 0.06446666666666666,
+      "Voltage": 240.1735,
+      "Global_intensity": 5.433333333333334,
+      "Sub_metering_1": 431.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 503.0
+    },
+    {
+      "timestamp": "2010-11-20T14:00:00",
+      "Global_active_power": 1.0514333333333332,
+      "Global_reactive_power": 0.05263333333333333,
+      "Voltage": 240.84650000000002,
+      "Global_intensity": 4.406666666666666,
+      "Sub_metering_1": 507.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 136.0
+    },
+    {
+      "timestamp": "2010-11-20T15:00:00",
+      "Global_active_power": 1.2581666666666667,
+      "Global_reactive_power": 0.10379999999999999,
+      "Voltage": 241.97066666666666,
+      "Global_intensity": 5.176666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 49.0,
+      "Sub_metering_3": 806.0
+    },
+    {
+      "timestamp": "2010-11-20T16:00:00",
+      "Global_active_power": 1.5170333333333335,
+      "Global_reactive_power": 0.09703333333333333,
+      "Voltage": 239.217,
+      "Global_intensity": 6.283333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 38.0,
+      "Sub_metering_3": 1054.0
+    },
+    {
+      "timestamp": "2010-11-20T17:00:00",
+      "Global_active_power": 1.7953000000000001,
+      "Global_reactive_power": 0.0661,
+      "Voltage": 236.31666666666666,
+      "Global_intensity": 7.543333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1028.0
+    },
+    {
+      "timestamp": "2010-11-20T18:00:00",
+      "Global_active_power": 5.626833333333334,
+      "Global_reactive_power": 0.19906666666666664,
+      "Voltage": 230.51433333333335,
+      "Global_intensity": 24.720000000000002,
+      "Sub_metering_1": 861.0,
+      "Sub_metering_2": 1789.0,
+      "Sub_metering_3": 980.0
+    },
+    {
+      "timestamp": "2010-11-20T19:00:00",
+      "Global_active_power": 3.2597,
+      "Global_reactive_power": 0.3294333333333333,
+      "Voltage": 233.97016666666664,
+      "Global_intensity": 14.306666666666667,
+      "Sub_metering_1": 584.0,
+      "Sub_metering_2": 91.0,
+      "Sub_metering_3": 1008.0
+    },
+    {
+      "timestamp": "2010-11-20T20:00:00",
+      "Global_active_power": 2.1171333333333333,
+      "Global_reactive_power": 0.0906,
+      "Voltage": 237.847,
+      "Global_intensity": 8.893333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 67.0,
+      "Sub_metering_3": 494.0
+    },
+    {
+      "timestamp": "2010-11-20T21:00:00",
+      "Global_active_power": 1.7741,
+      "Global_reactive_power": 0.06093333333333333,
+      "Voltage": 237.61066666666665,
+      "Global_intensity": 7.433333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 10.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-20T22:00:00",
+      "Global_active_power": 1.3264,
+      "Global_reactive_power": 0.09380000000000001,
+      "Voltage": 239.87166666666664,
+      "Global_intensity": 5.609999999999999,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 9.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-20T23:00:00",
+      "Global_active_power": 0.7294666666666667,
+      "Global_reactive_power": 0.05093333333333334,
+      "Voltage": 243.18333333333334,
+      "Global_intensity": 3.08,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 61.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T00:00:00",
+      "Global_active_power": 0.5199,
+      "Global_reactive_power": 0.05653333333333333,
+      "Voltage": 241.931,
+      "Global_intensity": 2.19,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 53.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T01:00:00",
+      "Global_active_power": 0.2938,
+      "Global_reactive_power": 0.06923333333333333,
+      "Voltage": 241.75883333333334,
+      "Global_intensity": 1.2533333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 10.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T02:00:00",
+      "Global_active_power": 0.8968,
+      "Global_reactive_power": 0.06306666666666667,
+      "Voltage": 243.36616666666666,
+      "Global_intensity": 3.716666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 1.0,
+      "Sub_metering_3": 612.0
+    },
+    {
+      "timestamp": "2010-11-21T03:00:00",
+      "Global_active_power": 0.3299,
+      "Global_reactive_power": 0.11220000000000001,
+      "Voltage": 245.45683333333332,
+      "Global_intensity": 1.4033333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 39.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T04:00:00",
+      "Global_active_power": 0.34456666666666663,
+      "Global_reactive_power": 0.129,
+      "Voltage": 246.06066666666666,
+      "Global_intensity": 1.46,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 52.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T05:00:00",
+      "Global_active_power": 0.2902666666666667,
+      "Global_reactive_power": 0.05883333333333333,
+      "Voltage": 245.64133333333334,
+      "Global_intensity": 1.2166666666666666,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T06:00:00",
+      "Global_active_power": 0.33686666666666665,
+      "Global_reactive_power": 0.056133333333333334,
+      "Voltage": 244.80766666666668,
+      "Global_intensity": 1.4033333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T07:00:00",
+      "Global_active_power": 2.0713,
+      "Global_reactive_power": 0.0834,
+      "Voltage": 242.99566666666666,
+      "Global_intensity": 8.546666666666665,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 29.0,
+      "Sub_metering_3": 555.0
+    },
+    {
+      "timestamp": "2010-11-21T08:00:00",
+      "Global_active_power": 1.4247,
+      "Global_reactive_power": 0.1216,
+      "Voltage": 242.73433333333332,
+      "Global_intensity": 5.843333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 56.0,
+      "Sub_metering_3": 1083.0
+    },
+    {
+      "timestamp": "2010-11-21T09:00:00",
+      "Global_active_power": 1.2906333333333333,
+      "Global_reactive_power": 0.06276666666666667,
+      "Voltage": 242.66049999999998,
+      "Global_intensity": 5.293333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 997.0
+    },
+    {
+      "timestamp": "2010-11-21T10:00:00",
+      "Global_active_power": 0.26809999999999995,
+      "Global_reactive_power": 0.07529999999999999,
+      "Voltage": 240.51666666666668,
+      "Global_intensity": 1.2033333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T11:00:00",
+      "Global_active_power": 0.29916666666666664,
+      "Global_reactive_power": 0.08753333333333332,
+      "Voltage": 238.41783333333333,
+      "Global_intensity": 1.3066666666666669,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 26.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T12:00:00",
+      "Global_active_power": 0.34963333333333335,
+      "Global_reactive_power": 0.12976666666666667,
+      "Voltage": 240.22433333333336,
+      "Global_intensity": 1.55,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 63.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T13:00:00",
+      "Global_active_power": 0.2768666666666667,
+      "Global_reactive_power": 0.058133333333333335,
+      "Voltage": 240.94866666666667,
+      "Global_intensity": 1.2133333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T14:00:00",
+      "Global_active_power": 0.2809666666666667,
+      "Global_reactive_power": 0.05293333333333334,
+      "Voltage": 244.22233333333332,
+      "Global_intensity": 1.1866666666666668,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T15:00:00",
+      "Global_active_power": 0.29733333333333334,
+      "Global_reactive_power": 0.06699999999999999,
+      "Voltage": 243.07999999999998,
+      "Global_intensity": 1.2633333333333332,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 16.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T16:00:00",
+      "Global_active_power": 0.35083333333333333,
+      "Global_reactive_power": 0.14253333333333332,
+      "Voltage": 240.4615,
+      "Global_intensity": 1.5566666666666669,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 68.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T17:00:00",
+      "Global_active_power": 0.7239333333333333,
+      "Global_reactive_power": 0.07796666666666667,
+      "Voltage": 234.66083333333333,
+      "Global_intensity": 3.1166666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 445.0
+    },
+    {
+      "timestamp": "2010-11-21T18:00:00",
+      "Global_active_power": 0.45113333333333333,
+      "Global_reactive_power": 0.07303333333333333,
+      "Voltage": 235.40900000000002,
+      "Global_intensity": 1.9866666666666668,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 194.0
+    },
+    {
+      "timestamp": "2010-11-21T19:00:00",
+      "Global_active_power": 0.2954666666666667,
+      "Global_reactive_power": 0.07246666666666667,
+      "Voltage": 235.62199999999999,
+      "Global_intensity": 1.3066666666666669,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 12.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T20:00:00",
+      "Global_active_power": 0.6047666666666667,
+      "Global_reactive_power": 0.12076666666666667,
+      "Voltage": 237.08350000000002,
+      "Global_intensity": 2.61,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 70.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T21:00:00",
+      "Global_active_power": 1.2213,
+      "Global_reactive_power": 0.0827,
+      "Voltage": 236.507,
+      "Global_intensity": 5.14,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-21T22:00:00",
+      "Global_active_power": 1.4937666666666667,
+      "Global_reactive_power": 0.06876666666666667,
+      "Voltage": 239.14033333333333,
+      "Global_intensity": 6.25,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 892.0
+    },
+    {
+      "timestamp": "2010-11-21T23:00:00",
+      "Global_active_power": 0.3031666666666667,
+      "Global_reactive_power": 0.07206666666666667,
+      "Voltage": 244.61766666666665,
+      "Global_intensity": 1.2933333333333332,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 11.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-22T00:00:00",
+      "Global_active_power": 0.3675,
+      "Global_reactive_power": 0.1732,
+      "Voltage": 244.98083333333335,
+      "Global_intensity": 1.62,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 74.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-22T01:00:00",
+      "Global_active_power": 0.2798666666666667,
+      "Global_reactive_power": 0.05636666666666667,
+      "Voltage": 243.33716666666666,
+      "Global_intensity": 1.2133333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-22T02:00:00",
+      "Global_active_power": 0.28336666666666666,
+      "Global_reactive_power": 0.0501,
+      "Voltage": 244.4885,
+      "Global_intensity": 1.2,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-22T03:00:00",
+      "Global_active_power": 0.2749333333333333,
+      "Global_reactive_power": 0.046933333333333334,
+      "Voltage": 244.47650000000002,
+      "Global_intensity": 1.18,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 6.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-22T04:00:00",
+      "Global_active_power": 0.36829999999999996,
+      "Global_reactive_power": 0.1734,
+      "Voltage": 245.74650000000003,
+      "Global_intensity": 1.6166666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 77.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-22T05:00:00",
+      "Global_active_power": 0.2859,
+      "Global_reactive_power": 0.05306666666666667,
+      "Voltage": 246.14633333333333,
+      "Global_intensity": 1.2133333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 1.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-22T06:00:00",
+      "Global_active_power": 0.9530333333333334,
+      "Global_reactive_power": 0.046233333333333335,
+      "Voltage": 242.78699999999998,
+      "Global_intensity": 4.033333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 294.0
+    },
+    {
+      "timestamp": "2010-11-22T07:00:00",
+      "Global_active_power": 2.137,
+      "Global_reactive_power": 0.0545,
+      "Voltage": 236.96366666666665,
+      "Global_intensity": 8.96,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1035.0
+    },
+    {
+      "timestamp": "2010-11-22T08:00:00",
+      "Global_active_power": 2.590233333333333,
+      "Global_reactive_power": 0.1348,
+      "Voltage": 237.52,
+      "Global_intensity": 10.91,
+      "Sub_metering_1": 521.0,
+      "Sub_metering_2": 494.0,
+      "Sub_metering_3": 1038.0
+    },
+    {
+      "timestamp": "2010-11-22T09:00:00",
+      "Global_active_power": 1.4276000000000002,
+      "Global_reactive_power": 0.09456666666666667,
+      "Voltage": 238.15116666666665,
+      "Global_intensity": 5.959999999999999,
+      "Sub_metering_1": 71.0,
+      "Sub_metering_2": 35.0,
+      "Sub_metering_3": 1044.0
+    },
+    {
+      "timestamp": "2010-11-22T10:00:00",
+      "Global_active_power": 3.105366666666667,
+      "Global_reactive_power": 0.0634,
+      "Voltage": 235.49266666666665,
+      "Global_intensity": 13.183333333333334,
+      "Sub_metering_1": 532.0,
+      "Sub_metering_2": 1109.0,
+      "Sub_metering_3": 1021.0
+    },
+    {
+      "timestamp": "2010-11-22T11:00:00",
+      "Global_active_power": 2.6391333333333336,
+      "Global_reactive_power": 0.16366666666666668,
+      "Voltage": 236.95983333333334,
+      "Global_intensity": 11.55,
+      "Sub_metering_1": 678.0,
+      "Sub_metering_2": 50.0,
+      "Sub_metering_3": 1034.0
+    },
+    {
+      "timestamp": "2010-11-22T12:00:00",
+      "Global_active_power": 1.8669333333333331,
+      "Global_reactive_power": 0.25129999999999997,
+      "Voltage": 238.28833333333333,
+      "Global_intensity": 7.876666666666667,
+      "Sub_metering_1": 2.0,
+      "Sub_metering_2": 91.0,
+      "Sub_metering_3": 1045.0
+    },
+    {
+      "timestamp": "2010-11-22T13:00:00",
+      "Global_active_power": 1.9867666666666668,
+      "Global_reactive_power": 0.09363333333333333,
+      "Voltage": 237.78283333333331,
+      "Global_intensity": 8.323333333333332,
+      "Sub_metering_1": 386.0,
+      "Sub_metering_2": 6.0,
+      "Sub_metering_3": 1041.0
+    },
+    {
+      "timestamp": "2010-11-22T14:00:00",
+      "Global_active_power": 1.5176666666666667,
+      "Global_reactive_power": 0.06383333333333334,
+      "Voltage": 240.32433333333336,
+      "Global_intensity": 6.260000000000001,
+      "Sub_metering_1": 72.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1062.0
+    },
+    {
+      "timestamp": "2010-11-22T15:00:00",
+      "Global_active_power": 1.3865666666666667,
+      "Global_reactive_power": 0.08180000000000001,
+      "Voltage": 242.10966666666667,
+      "Global_intensity": 5.796666666666667,
+      "Sub_metering_1": 507.0,
+      "Sub_metering_2": 21.0,
+      "Sub_metering_3": 335.0
+    },
+    {
+      "timestamp": "2010-11-22T16:00:00",
+      "Global_active_power": 0.6926333333333333,
+      "Global_reactive_power": 0.14593333333333333,
+      "Voltage": 241.0425,
+      "Global_intensity": 2.89,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 63.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-22T17:00:00",
+      "Global_active_power": 0.6457666666666667,
+      "Global_reactive_power": 0.0422,
+      "Voltage": 237.38666666666668,
+      "Global_intensity": 2.69,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-22T18:00:00",
+      "Global_active_power": 3.1683000000000003,
+      "Global_reactive_power": 0.12586666666666665,
+      "Voltage": 234.41850000000002,
+      "Global_intensity": 13.906666666666666,
+      "Sub_metering_1": 1196.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-22T19:00:00",
+      "Global_active_power": 2.5895,
+      "Global_reactive_power": 0.13776666666666668,
+      "Voltage": 234.38733333333332,
+      "Global_intensity": 11.156666666666666,
+      "Sub_metering_1": 865.0,
+      "Sub_metering_2": 9.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-22T20:00:00",
+      "Global_active_power": 1.5825333333333333,
+      "Global_reactive_power": 0.13266666666666665,
+      "Voltage": 236.66649999999998,
+      "Global_intensity": 6.67,
+      "Sub_metering_1": 25.0,
+      "Sub_metering_2": 70.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-22T21:00:00",
+      "Global_active_power": 2.3887,
+      "Global_reactive_power": 0.04803333333333334,
+      "Voltage": 239.127,
+      "Global_intensity": 9.946666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 639.0
+    },
+    {
+      "timestamp": "2010-11-22T22:00:00",
+      "Global_active_power": 1.1652,
+      "Global_reactive_power": 0.07023333333333334,
+      "Voltage": 243.20200000000003,
+      "Global_intensity": 4.816666666666666,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 548.0
+    },
+    {
+      "timestamp": "2010-11-22T23:00:00",
+      "Global_active_power": 0.3228,
+      "Global_reactive_power": 0.06906666666666667,
+      "Voltage": 242.94500000000002,
+      "Global_intensity": 1.3666666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 4.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T00:00:00",
+      "Global_active_power": 0.3651666666666667,
+      "Global_reactive_power": 0.16576666666666667,
+      "Voltage": 242.95983333333334,
+      "Global_intensity": 1.63,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 73.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T01:00:00",
+      "Global_active_power": 0.2924333333333333,
+      "Global_reactive_power": 0.07113333333333333,
+      "Voltage": 242.17116666666666,
+      "Global_intensity": 1.2633333333333332,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T02:00:00",
+      "Global_active_power": 0.28236666666666665,
+      "Global_reactive_power": 0.07716666666666666,
+      "Voltage": 243.7175,
+      "Global_intensity": 1.2566666666666668,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T03:00:00",
+      "Global_active_power": 0.27449999999999997,
+      "Global_reactive_power": 0.0643,
+      "Voltage": 244.22466666666665,
+      "Global_intensity": 1.2266666666666666,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 4.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T04:00:00",
+      "Global_active_power": 0.36016666666666663,
+      "Global_reactive_power": 0.16693333333333332,
+      "Voltage": 244.57783333333333,
+      "Global_intensity": 1.59,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 70.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T05:00:00",
+      "Global_active_power": 0.2802,
+      "Global_reactive_power": 0.04996666666666667,
+      "Voltage": 244.77733333333333,
+      "Global_intensity": 1.21,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T06:00:00",
+      "Global_active_power": 0.6357333333333333,
+      "Global_reactive_power": 0.048900000000000006,
+      "Voltage": 243.40166666666667,
+      "Global_intensity": 2.6566666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 246.0
+    },
+    {
+      "timestamp": "2010-11-23T07:00:00",
+      "Global_active_power": 2.5486,
+      "Global_reactive_power": 0.07676666666666666,
+      "Voltage": 235.27533333333335,
+      "Global_intensity": 10.84,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 4.0,
+      "Sub_metering_3": 1020.0
+    },
+    {
+      "timestamp": "2010-11-23T08:00:00",
+      "Global_active_power": 1.7040666666666666,
+      "Global_reactive_power": 0.21893333333333334,
+      "Voltage": 233.88483333333335,
+      "Global_intensity": 7.456666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 66.0,
+      "Sub_metering_3": 1008.0
+    },
+    {
+      "timestamp": "2010-11-23T09:00:00",
+      "Global_active_power": 1.4006333333333332,
+      "Global_reactive_power": 0.07980000000000001,
+      "Voltage": 233.94866666666667,
+      "Global_intensity": 5.989999999999999,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1009.0
+    },
+    {
+      "timestamp": "2010-11-23T10:00:00",
+      "Global_active_power": 1.57,
+      "Global_reactive_power": 0.06346666666666666,
+      "Voltage": 238.712,
+      "Global_intensity": 6.566666666666666,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1049.0
+    },
+    {
+      "timestamp": "2010-11-23T11:00:00",
+      "Global_active_power": 1.7039666666666666,
+      "Global_reactive_power": 0.06663333333333334,
+      "Voltage": 239.30116666666666,
+      "Global_intensity": 7.316666666666666,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 9.0,
+      "Sub_metering_3": 1053.0
+    },
+    {
+      "timestamp": "2010-11-23T12:00:00",
+      "Global_active_power": 1.0491666666666668,
+      "Global_reactive_power": 0.16266666666666665,
+      "Voltage": 239.74699999999999,
+      "Global_intensity": 4.556666666666667,
+      "Sub_metering_1": 7.0,
+      "Sub_metering_2": 64.0,
+      "Sub_metering_3": 418.0
+    },
+    {
+      "timestamp": "2010-11-23T13:00:00",
+      "Global_active_power": 0.8319,
+      "Global_reactive_power": 0.04616666666666667,
+      "Voltage": 240.45666666666665,
+      "Global_intensity": 3.5233333333333334,
+      "Sub_metering_1": 520.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T14:00:00",
+      "Global_active_power": 1.5486333333333333,
+      "Global_reactive_power": 0.06563333333333334,
+      "Voltage": 242.66916666666665,
+      "Global_intensity": 6.413333333333333,
+      "Sub_metering_1": 536.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 709.0
+    },
+    {
+      "timestamp": "2010-11-23T15:00:00",
+      "Global_active_power": 0.4,
+      "Global_reactive_power": 0.0754,
+      "Voltage": 245.46866666666668,
+      "Global_intensity": 1.6733333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 17.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T16:00:00",
+      "Global_active_power": 0.5092666666666666,
+      "Global_reactive_power": 0.15673333333333334,
+      "Voltage": 243.0965,
+      "Global_intensity": 2.2,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 62.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T17:00:00",
+      "Global_active_power": 0.9787333333333333,
+      "Global_reactive_power": 0.08896666666666667,
+      "Voltage": 239.386,
+      "Global_intensity": 4.173333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T18:00:00",
+      "Global_active_power": 1.8401,
+      "Global_reactive_power": 0.07043333333333333,
+      "Voltage": 235.01166666666668,
+      "Global_intensity": 7.86,
+      "Sub_metering_1": 200.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T19:00:00",
+      "Global_active_power": 2.221233333333333,
+      "Global_reactive_power": 0.15786666666666666,
+      "Voltage": 237.3015,
+      "Global_intensity": 9.879999999999999,
+      "Sub_metering_1": 607.0,
+      "Sub_metering_2": 13.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T20:00:00",
+      "Global_active_power": 2.6366666666666663,
+      "Global_reactive_power": 0.11936666666666666,
+      "Voltage": 239.154,
+      "Global_intensity": 11.003333333333334,
+      "Sub_metering_1": 1.0,
+      "Sub_metering_2": 61.0,
+      "Sub_metering_3": 904.0
+    },
+    {
+      "timestamp": "2010-11-23T21:00:00",
+      "Global_active_power": 1.4262333333333332,
+      "Global_reactive_power": 0.049,
+      "Voltage": 237.6095,
+      "Global_intensity": 5.986666666666666,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 195.0
+    },
+    {
+      "timestamp": "2010-11-23T22:00:00",
+      "Global_active_power": 0.8328000000000001,
+      "Global_reactive_power": 0.057133333333333335,
+      "Voltage": 243.56233333333333,
+      "Global_intensity": 3.4133333333333336,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-23T23:00:00",
+      "Global_active_power": 0.5997,
+      "Global_reactive_power": 0.09169999999999999,
+      "Voltage": 243.39766666666668,
+      "Global_intensity": 2.5,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 15.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-24T00:00:00",
+      "Global_active_power": 0.35836666666666667,
+      "Global_reactive_power": 0.13516666666666666,
+      "Voltage": 243.75233333333333,
+      "Global_intensity": 1.5733333333333335,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 60.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-24T01:00:00",
+      "Global_active_power": 0.26530000000000004,
+      "Global_reactive_power": 0.047233333333333336,
+      "Voltage": 243.137,
+      "Global_intensity": 1.1933333333333331,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-24T02:00:00",
+      "Global_active_power": 0.5021,
+      "Global_reactive_power": 0.053899999999999997,
+      "Voltage": 243.35216666666665,
+      "Global_intensity": 2.1266666666666665,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 216.0
+    },
+    {
+      "timestamp": "2010-11-24T03:00:00",
+      "Global_active_power": 0.7512333333333333,
+      "Global_reactive_power": 0.07573333333333335,
+      "Voltage": 243.07883333333334,
+      "Global_intensity": 3.143333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 16.0,
+      "Sub_metering_3": 462.0
+    },
+    {
+      "timestamp": "2010-11-24T04:00:00",
+      "Global_active_power": 0.3203,
+      "Global_reactive_power": 0.12013333333333334,
+      "Voltage": 244.853,
+      "Global_intensity": 1.38,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 57.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-24T05:00:00",
+      "Global_active_power": 0.2844,
+      "Global_reactive_power": 0.0626,
+      "Voltage": 244.99916666666667,
+      "Global_intensity": 1.25,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-24T06:00:00",
+      "Global_active_power": 0.8289666666666666,
+      "Global_reactive_power": 0.05223333333333333,
+      "Voltage": 243.9535,
+      "Global_intensity": 3.506666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 279.0
+    },
+    {
+      "timestamp": "2010-11-24T07:00:00",
+      "Global_active_power": 2.8502333333333336,
+      "Global_reactive_power": 0.06126666666666667,
+      "Voltage": 241.5505,
+      "Global_intensity": 11.81,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 581.0,
+      "Sub_metering_3": 1074.0
+    },
+    {
+      "timestamp": "2010-11-24T08:00:00",
+      "Global_active_power": 1.5541666666666667,
+      "Global_reactive_power": 0.1272,
+      "Voltage": 239.28650000000002,
+      "Global_intensity": 6.466666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 150.0,
+      "Sub_metering_3": 1054.0
+    },
+    {
+      "timestamp": "2010-11-24T09:00:00",
+      "Global_active_power": 1.3640333333333332,
+      "Global_reactive_power": 0.057,
+      "Voltage": 239.6256666666667,
+      "Global_intensity": 5.633333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1057.0
+    },
+    {
+      "timestamp": "2010-11-24T10:00:00",
+      "Global_active_power": 1.3725999999999998,
+      "Global_reactive_power": 0.07836666666666667,
+      "Voltage": 239.71516666666668,
+      "Global_intensity": 5.72,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1057.0
+    },
+    {
+      "timestamp": "2010-11-24T11:00:00",
+      "Global_active_power": 1.3923666666666668,
+      "Global_reactive_power": 0.10483333333333333,
+      "Voltage": 240.1663333333333,
+      "Global_intensity": 5.786666666666666,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 27.0,
+      "Sub_metering_3": 1062.0
+    },
+    {
+      "timestamp": "2010-11-24T12:00:00",
+      "Global_active_power": 1.5837666666666665,
+      "Global_reactive_power": 0.16623333333333334,
+      "Voltage": 239.5413333333333,
+      "Global_intensity": 6.63,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 48.0,
+      "Sub_metering_3": 1056.0
+    },
+    {
+      "timestamp": "2010-11-24T13:00:00",
+      "Global_active_power": 1.9610333333333334,
+      "Global_reactive_power": 0.05466666666666667,
+      "Voltage": 240.40783333333331,
+      "Global_intensity": 8.166666666666666,
+      "Sub_metering_1": 543.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1063.0
+    },
+    {
+      "timestamp": "2010-11-24T14:00:00",
+      "Global_active_power": 2.0177666666666667,
+      "Global_reactive_power": 0.07436666666666666,
+      "Voltage": 240.10783333333333,
+      "Global_intensity": 8.383333333333333,
+      "Sub_metering_1": 553.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1061.0
+    },
+    {
+      "timestamp": "2010-11-24T15:00:00",
+      "Global_active_power": 1.5020333333333333,
+      "Global_reactive_power": 0.1163,
+      "Voltage": 239.67366666666666,
+      "Global_intensity": 6.243333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 34.0,
+      "Sub_metering_3": 1058.0
+    },
+    {
+      "timestamp": "2010-11-24T16:00:00",
+      "Global_active_power": 0.8740666666666667,
+      "Global_reactive_power": 0.1024,
+      "Voltage": 238.39216666666667,
+      "Global_intensity": 3.746666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 198.0,
+      "Sub_metering_3": 57.0
+    },
+    {
+      "timestamp": "2010-11-24T17:00:00",
+      "Global_active_power": 1.9389333333333334,
+      "Global_reactive_power": 0.0545,
+      "Voltage": 236.5335,
+      "Global_intensity": 8.223333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 1513.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-24T18:00:00",
+      "Global_active_power": 2.0611333333333333,
+      "Global_reactive_power": 0.08716666666666667,
+      "Voltage": 235.47783333333334,
+      "Global_intensity": 8.696666666666665,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 12.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-24T19:00:00",
+      "Global_active_power": 1.4982333333333335,
+      "Global_reactive_power": 0.2473,
+      "Voltage": 235.26816666666667,
+      "Global_intensity": 6.42,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 73.0,
+      "Sub_metering_3": 13.0
+    },
+    {
+      "timestamp": "2010-11-24T20:00:00",
+      "Global_active_power": 2.3128666666666664,
+      "Global_reactive_power": 0.059899999999999995,
+      "Voltage": 232.66983333333334,
+      "Global_intensity": 9.9,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 11.0,
+      "Sub_metering_3": 1000.0
+    },
+    {
+      "timestamp": "2010-11-24T21:00:00",
+      "Global_active_power": 1.5683666666666667,
+      "Global_reactive_power": 0.07523333333333333,
+      "Voltage": 233.16333333333333,
+      "Global_intensity": 6.696666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 655.0
+    },
+    {
+      "timestamp": "2010-11-24T22:00:00",
+      "Global_active_power": 0.42210000000000003,
+      "Global_reactive_power": 0.08673333333333333,
+      "Voltage": 240.2435,
+      "Global_intensity": 1.7833333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-24T23:00:00",
+      "Global_active_power": 0.3531,
+      "Global_reactive_power": 0.1072,
+      "Voltage": 241.79399999999998,
+      "Global_intensity": 1.51,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 68.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T00:00:00",
+      "Global_active_power": 0.3034666666666667,
+      "Global_reactive_power": 0.07343333333333332,
+      "Voltage": 241.05333333333334,
+      "Global_intensity": 1.3066666666666669,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 13.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T01:00:00",
+      "Global_active_power": 0.28966666666666663,
+      "Global_reactive_power": 0.06143333333333333,
+      "Voltage": 242.1025,
+      "Global_intensity": 1.25,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T02:00:00",
+      "Global_active_power": 0.26636666666666664,
+      "Global_reactive_power": 0.06183333333333333,
+      "Voltage": 242.46883333333332,
+      "Global_intensity": 1.1700000000000002,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T03:00:00",
+      "Global_active_power": 0.33573333333333333,
+      "Global_reactive_power": 0.1164,
+      "Voltage": 242.4453333333333,
+      "Global_intensity": 1.4266666666666665,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 59.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T04:00:00",
+      "Global_active_power": 0.37706666666666666,
+      "Global_reactive_power": 0.08696666666666666,
+      "Voltage": 243.17616666666666,
+      "Global_intensity": 1.6266666666666665,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 19.0,
+      "Sub_metering_3": 76.0
+    },
+    {
+      "timestamp": "2010-11-25T05:00:00",
+      "Global_active_power": 0.8805333333333334,
+      "Global_reactive_power": 0.0511,
+      "Voltage": 242.858,
+      "Global_intensity": 3.64,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 610.0
+    },
+    {
+      "timestamp": "2010-11-25T06:00:00",
+      "Global_active_power": 0.9632000000000001,
+      "Global_reactive_power": 0.06236666666666667,
+      "Voltage": 242.51216666666667,
+      "Global_intensity": 4.06,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 282.0
+    },
+    {
+      "timestamp": "2010-11-25T07:00:00",
+      "Global_active_power": 2.627133333333333,
+      "Global_reactive_power": 0.14063333333333333,
+      "Voltage": 239.72083333333333,
+      "Global_intensity": 10.983333333333333,
+      "Sub_metering_1": 479.0,
+      "Sub_metering_2": 52.0,
+      "Sub_metering_3": 1058.0
+    },
+    {
+      "timestamp": "2010-11-25T08:00:00",
+      "Global_active_power": 1.6294,
+      "Global_reactive_power": 0.0684,
+      "Voltage": 239.44933333333333,
+      "Global_intensity": 6.743333333333334,
+      "Sub_metering_1": 70.0,
+      "Sub_metering_2": 22.0,
+      "Sub_metering_3": 773.0
+    },
+    {
+      "timestamp": "2010-11-25T09:00:00",
+      "Global_active_power": 1.2577,
+      "Global_reactive_power": 0.0638,
+      "Voltage": 238.34133333333332,
+      "Global_intensity": 5.306666666666667,
+      "Sub_metering_1": 527.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T10:00:00",
+      "Global_active_power": 0.6454666666666667,
+      "Global_reactive_power": 0.0673,
+      "Voltage": 241.121,
+      "Global_intensity": 2.6933333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T11:00:00",
+      "Global_active_power": 1.0280666666666667,
+      "Global_reactive_power": 0.09206666666666667,
+      "Voltage": 240.61416666666668,
+      "Global_intensity": 4.343333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 49.0,
+      "Sub_metering_3": 639.0
+    },
+    {
+      "timestamp": "2010-11-25T12:00:00",
+      "Global_active_power": 0.49973333333333336,
+      "Global_reactive_power": 0.09223333333333333,
+      "Voltage": 243.16083333333333,
+      "Global_intensity": 2.21,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 26.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T13:00:00",
+      "Global_active_power": 0.3562333333333333,
+      "Global_reactive_power": 0.0474,
+      "Voltage": 242.61216666666667,
+      "Global_intensity": 1.5633333333333332,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T14:00:00",
+      "Global_active_power": 0.30066666666666664,
+      "Global_reactive_power": 0.0559,
+      "Voltage": 244.9118333333333,
+      "Global_intensity": 1.2766666666666666,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T15:00:00",
+      "Global_active_power": 0.333,
+      "Global_reactive_power": 0.10973333333333332,
+      "Voltage": 245.91133333333335,
+      "Global_intensity": 1.4200000000000002,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 47.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T16:00:00",
+      "Global_active_power": 0.5418000000000001,
+      "Global_reactive_power": 0.09046666666666667,
+      "Voltage": 242.9548333333333,
+      "Global_intensity": 2.256666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 30.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T17:00:00",
+      "Global_active_power": 1.4801,
+      "Global_reactive_power": 0.052333333333333336,
+      "Voltage": 238.264,
+      "Global_intensity": 6.16,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T18:00:00",
+      "Global_active_power": 2.2116,
+      "Global_reactive_power": 0.08383333333333334,
+      "Voltage": 236.0625,
+      "Global_intensity": 9.343333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 347.0
+    },
+    {
+      "timestamp": "2010-11-25T19:00:00",
+      "Global_active_power": 2.3304666666666667,
+      "Global_reactive_power": 0.15156666666666666,
+      "Voltage": 237.72966666666667,
+      "Global_intensity": 9.8,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 40.0,
+      "Sub_metering_3": 502.0
+    },
+    {
+      "timestamp": "2010-11-25T20:00:00",
+      "Global_active_power": 1.6478333333333335,
+      "Global_reactive_power": 0.09803333333333333,
+      "Voltage": 241.65900000000002,
+      "Global_intensity": 6.826666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 33.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T21:00:00",
+      "Global_active_power": 1.3429333333333333,
+      "Global_reactive_power": 0.049433333333333336,
+      "Voltage": 240.69883333333334,
+      "Global_intensity": 5.54,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-25T22:00:00",
+      "Global_active_power": 1.2475666666666667,
+      "Global_reactive_power": 0.07893333333333333,
+      "Voltage": 241.9795,
+      "Global_intensity": 5.16,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 318.0
+    },
+    {
+      "timestamp": "2010-11-25T23:00:00",
+      "Global_active_power": 0.9570000000000001,
+      "Global_reactive_power": 0.07986666666666667,
+      "Voltage": 245.06266666666667,
+      "Global_intensity": 3.96,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 36.0,
+      "Sub_metering_3": 467.0
+    },
+    {
+      "timestamp": "2010-11-26T00:00:00",
+      "Global_active_power": 0.2943,
+      "Global_reactive_power": 0.08923333333333333,
+      "Voltage": 241.55266666666665,
+      "Global_intensity": 1.2866666666666666,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 35.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-26T01:00:00",
+      "Global_active_power": 0.28099999999999997,
+      "Global_reactive_power": 0.08686666666666666,
+      "Voltage": 241.09,
+      "Global_intensity": 1.27,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-26T02:00:00",
+      "Global_active_power": 0.2734333333333333,
+      "Global_reactive_power": 0.0784,
+      "Voltage": 242.5476666666667,
+      "Global_intensity": 1.2266666666666666,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-26T03:00:00",
+      "Global_active_power": 0.29836666666666667,
+      "Global_reactive_power": 0.08676666666666666,
+      "Voltage": 243.66866666666667,
+      "Global_intensity": 1.2733333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 35.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-26T04:00:00",
+      "Global_active_power": 0.31403333333333333,
+      "Global_reactive_power": 0.10643333333333334,
+      "Voltage": 244.87666666666667,
+      "Global_intensity": 1.3666666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 36.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-26T05:00:00",
+      "Global_active_power": 0.2825666666666667,
+      "Global_reactive_power": 0.06083333333333333,
+      "Voltage": 246.022,
+      "Global_intensity": 1.1966666666666665,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-26T06:00:00",
+      "Global_active_power": 1.0087666666666668,
+      "Global_reactive_power": 0.04703333333333334,
+      "Voltage": 243.32983333333334,
+      "Global_intensity": 4.243333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 297.0
+    },
+    {
+      "timestamp": "2010-11-26T07:00:00",
+      "Global_active_power": 2.8839333333333332,
+      "Global_reactive_power": 0.10283333333333333,
+      "Voltage": 238.31683333333334,
+      "Global_intensity": 12.05,
+      "Sub_metering_1": 12.0,
+      "Sub_metering_2": 27.0,
+      "Sub_metering_3": 1046.0
+    },
+    {
+      "timestamp": "2010-11-26T08:00:00",
+      "Global_active_power": 1.9993,
+      "Global_reactive_power": 0.11383333333333333,
+      "Voltage": 239.72166666666666,
+      "Global_intensity": 8.333333333333334,
+      "Sub_metering_1": 534.0,
+      "Sub_metering_2": 41.0,
+      "Sub_metering_3": 1058.0
+    },
+    {
+      "timestamp": "2010-11-26T09:00:00",
+      "Global_active_power": 1.8499666666666668,
+      "Global_reactive_power": 0.0635,
+      "Voltage": 239.98016666666666,
+      "Global_intensity": 7.6899999999999995,
+      "Sub_metering_1": 534.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1060.0
+    },
+    {
+      "timestamp": "2010-11-26T10:00:00",
+      "Global_active_power": 1.3527666666666667,
+      "Global_reactive_power": 0.0898,
+      "Voltage": 238.86233333333334,
+      "Global_intensity": 5.586666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1051.0
+    },
+    {
+      "timestamp": "2010-11-26T11:00:00",
+      "Global_active_power": 1.3389,
+      "Global_reactive_power": 0.10776666666666666,
+      "Voltage": 238.00216666666668,
+      "Global_intensity": 5.58,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 22.0,
+      "Sub_metering_3": 1043.0
+    },
+    {
+      "timestamp": "2010-11-26T12:00:00",
+      "Global_active_power": 1.4902000000000002,
+      "Global_reactive_power": 0.0942,
+      "Voltage": 237.94333333333333,
+      "Global_intensity": 6.243333333333334,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 48.0,
+      "Sub_metering_3": 1042.0
+    },
+    {
+      "timestamp": "2010-11-26T13:00:00",
+      "Global_active_power": 1.6129333333333333,
+      "Global_reactive_power": 0.20653333333333332,
+      "Voltage": 238.55033333333333,
+      "Global_intensity": 6.88,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1048.0
+    },
+    {
+      "timestamp": "2010-11-26T14:00:00",
+      "Global_active_power": 1.4077666666666668,
+      "Global_reactive_power": 0.12523333333333334,
+      "Voltage": 239.69033333333334,
+      "Global_intensity": 5.8533333333333335,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 1058.0
+    },
+    {
+      "timestamp": "2010-11-26T15:00:00",
+      "Global_active_power": 0.8764333333333333,
+      "Global_reactive_power": 0.10256666666666667,
+      "Voltage": 240.79066666666668,
+      "Global_intensity": 3.643333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 16.0,
+      "Sub_metering_3": 514.0
+    },
+    {
+      "timestamp": "2010-11-26T16:00:00",
+      "Global_active_power": 1.0679333333333332,
+      "Global_reactive_power": 0.21563333333333334,
+      "Voltage": 240.45783333333333,
+      "Global_intensity": 4.61,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 57.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-26T17:00:00",
+      "Global_active_power": 1.7259,
+      "Global_reactive_power": 0.0614,
+      "Voltage": 237.06966666666668,
+      "Global_intensity": 7.216666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 772.0
+    },
+    {
+      "timestamp": "2010-11-26T18:00:00",
+      "Global_active_power": 1.5734666666666668,
+      "Global_reactive_power": 0.0537,
+      "Voltage": 237.53183333333334,
+      "Global_intensity": 6.62,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 0.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-26T19:00:00",
+      "Global_active_power": 1.6593333333333333,
+      "Global_reactive_power": 0.060033333333333334,
+      "Voltage": 236.74099999999999,
+      "Global_intensity": 7.056666666666667,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 4.0,
+      "Sub_metering_3": 0.0
+    },
+    {
+      "timestamp": "2010-11-26T20:00:00",
+      "Global_active_power": 1.1637,
+      "Global_reactive_power": 0.06116666666666667,
+      "Voltage": 239.39600000000002,
+      "Global_intensity": 4.913333333333333,
+      "Sub_metering_1": 0.0,
+      "Sub_metering_2": 64.0,
+      "Sub_metering_3": 0.0
+    }
+  ]
+}

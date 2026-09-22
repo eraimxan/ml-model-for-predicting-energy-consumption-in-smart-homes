@@ -1,0 +1,449 @@
+{
+  "sample_size": 500,
+  "ranking": [
+    {
+      "feature": "Global_intensity_lag_1h",
+      "mean_abs_shap": 0.3519374132156372
+    },
+    {
+      "feature": "Global_active_power_lag_1h",
+      "mean_abs_shap": 0.10824654996395111
+    },
+    {
+      "feature": "Sub_metering_3_lag_1h",
+      "mean_abs_shap": 0.07804199308156967
+    },
+    {
+      "feature": "hour_cos",
+      "mean_abs_shap": 0.045002322643995285
+    },
+    {
+      "feature": "hour_sin",
+      "mean_abs_shap": 0.03600588068366051
+    },
+    {
+      "feature": "Sub_metering_3_lag_2h",
+      "mean_abs_shap": 0.03002765215933323
+    },
+    {
+      "feature": "Global_intensity_lag_168h",
+      "mean_abs_shap": 0.026757914572954178
+    },
+    {
+      "feature": "Sub_metering_1_lag_1h",
+      "mean_abs_shap": 0.019168388098478317
+    },
+    {
+      "feature": "shortwave_radiation_now",
+      "mean_abs_shap": 0.018029529601335526
+    },
+    {
+      "feature": "Global_active_power_lag_168h",
+      "mean_abs_shap": 0.016962623223662376
+    },
+    {
+      "feature": "Global_active_power_rstd_6h",
+      "mean_abs_shap": 0.016713399440050125
+    },
+    {
+      "feature": "Sub_metering_2_lag_2h",
+      "mean_abs_shap": 0.016382431611418724
+    },
+    {
+      "feature": "Global_active_power_lag_24h",
+      "mean_abs_shap": 0.016191428527235985
+    },
+    {
+      "feature": "Global_intensity_lag_24h",
+      "mean_abs_shap": 0.014697645790874958
+    },
+    {
+      "feature": "Sub_metering_2_lag_1h",
+      "mean_abs_shap": 0.014407075010240078
+    },
+    {
+      "feature": "shortwave_radiation_lag_1h",
+      "mean_abs_shap": 0.01258145458996296
+    },
+    {
+      "feature": "Global_intensity_lag_48h",
+      "mean_abs_shap": 0.010503790341317654
+    },
+    {
+      "feature": "temperature_2m_lag_24h",
+      "mean_abs_shap": 0.010082831606268883
+    },
+    {
+      "feature": "dow_sin",
+      "mean_abs_shap": 0.009932835586369038
+    },
+    {
+      "feature": "Global_intensity_lag_12h",
+      "mean_abs_shap": 0.008703912608325481
+    },
+    {
+      "feature": "Global_active_power_lag_12h",
+      "mean_abs_shap": 0.008458944968879223
+    },
+    {
+      "feature": "Global_active_power_lag_2h",
+      "mean_abs_shap": 0.008343475870788097
+    },
+    {
+      "feature": "shortwave_radiation_lag_24h",
+      "mean_abs_shap": 0.008325416594743729
+    },
+    {
+      "feature": "shortwave_radiation_lag_2h",
+      "mean_abs_shap": 0.007977679371833801
+    },
+    {
+      "feature": "mon_cos",
+      "mean_abs_shap": 0.007771583274006844
+    },
+    {
+      "feature": "Sub_metering_1_lag_2h",
+      "mean_abs_shap": 0.007645341567695141
+    },
+    {
+      "feature": "Global_reactive_power_lag_1h",
+      "mean_abs_shap": 0.007482908200472593
+    },
+    {
+      "feature": "Global_active_power_lag_48h",
+      "mean_abs_shap": 0.007270609959959984
+    },
+    {
+      "feature": "Global_active_power_rmean_6h",
+      "mean_abs_shap": 0.007145322393625975
+    },
+    {
+      "feature": "Voltage_lag_24h",
+      "mean_abs_shap": 0.0067884353920817375
+    },
+    {
+      "feature": "Sub_metering_2_lag_3h",
+      "mean_abs_shap": 0.006487109698355198
+    },
+    {
+      "feature": "Voltage_lag_48h",
+      "mean_abs_shap": 0.005991088692098856
+    },
+    {
+      "feature": "Global_intensity_lag_2h",
+      "mean_abs_shap": 0.005565383471548557
+    },
+    {
+      "feature": "Sub_metering_2_lag_168h",
+      "mean_abs_shap": 0.005261431448161602
+    },
+    {
+      "feature": "Global_reactive_power_lag_2h",
+      "mean_abs_shap": 0.005141302943229675
+    },
+    {
+      "feature": "Sub_metering_3_lag_6h",
+      "mean_abs_shap": 0.005095676053315401
+    },
+    {
+      "feature": "Sub_metering_3_lag_3h",
+      "mean_abs_shap": 0.005083772353827953
+    },
+    {
+      "feature": "Voltage_lag_168h",
+      "mean_abs_shap": 0.00506671192124486
+    },
+    {
+      "feature": "Global_active_power_rstd_24h",
+      "mean_abs_shap": 0.005066221579909325
+    },
+    {
+      "feature": "Global_active_power_rstd_3h",
+      "mean_abs_shap": 0.005030998028814793
+    },
+    {
+      "feature": "Global_reactive_power_lag_24h",
+      "mean_abs_shap": 0.004777756053954363
+    },
+    {
+      "feature": "shortwave_radiation_lag_6h",
+      "mean_abs_shap": 0.004775370005518198
+    },
+    {
+      "feature": "Voltage_lag_6h",
+      "mean_abs_shap": 0.0047712912783026695
+    },
+    {
+      "feature": "relative_humidity_2m_lag_1h",
+      "mean_abs_shap": 0.004583375528454781
+    },
+    {
+      "feature": "Global_active_power_rmean_24h",
+      "mean_abs_shap": 0.004554047714918852
+    },
+    {
+      "feature": "Sub_metering_3_lag_48h",
+      "mean_abs_shap": 0.004527343437075615
+    },
+    {
+      "feature": "Global_reactive_power_lag_6h",
+      "mean_abs_shap": 0.004253859631717205
+    },
+    {
+      "feature": "apparent_temperature_now",
+      "mean_abs_shap": 0.004145665094256401
+    },
+    {
+      "feature": "relative_humidity_2m_now",
+      "mean_abs_shap": 0.003996414598077536
+    },
+    {
+      "feature": "Voltage_lag_3h",
+      "mean_abs_shap": 0.0038817175664007664
+    },
+    {
+      "feature": "Global_reactive_power_lag_3h",
+      "mean_abs_shap": 0.003792940406128764
+    },
+    {
+      "feature": "Global_active_power_rmean_3h",
+      "mean_abs_shap": 0.003764543915167451
+    },
+    {
+      "feature": "Sub_metering_3_lag_12h",
+      "mean_abs_shap": 0.003753658151254058
+    },
+    {
+      "feature": "temperature_2m_now",
+      "mean_abs_shap": 0.0033627834636718035
+    },
+    {
+      "feature": "Global_active_power_lag_6h",
+      "mean_abs_shap": 0.003310393076390028
+    },
+    {
+      "feature": "Voltage_lag_12h",
+      "mean_abs_shap": 0.0030566868372261524
+    },
+    {
+      "feature": "apparent_temperature_lag_24h",
+      "mean_abs_shap": 0.0029816669411957264
+    },
+    {
+      "feature": "Voltage_lag_1h",
+      "mean_abs_shap": 0.002901162253692746
+    },
+    {
+      "feature": "Sub_metering_3_lag_168h",
+      "mean_abs_shap": 0.002900840248912573
+    },
+    {
+      "feature": "Sub_metering_2_lag_48h",
+      "mean_abs_shap": 0.0028866869397461414
+    },
+    {
+      "feature": "apparent_temperature_lag_6h",
+      "mean_abs_shap": 0.002858907449990511
+    },
+    {
+      "feature": "relative_humidity_2m_lag_24h",
+      "mean_abs_shap": 0.002813764614984393
+    },
+    {
+      "feature": "shortwave_radiation_lag_3h",
+      "mean_abs_shap": 0.002802470466122031
+    },
+    {
+      "feature": "Global_active_power_lag_3h",
+      "mean_abs_shap": 0.0027907011099159718
+    },
+    {
+      "feature": "Sub_metering_2_lag_24h",
+      "mean_abs_shap": 0.00278558861464262
+    },
+    {
+      "feature": "Sub_metering_2_lag_6h",
+      "mean_abs_shap": 0.002763082506135106
+    },
+    {
+      "feature": "Global_reactive_power_lag_48h",
+      "mean_abs_shap": 0.002669007983058691
+    },
+    {
+      "feature": "Voltage_lag_2h",
+      "mean_abs_shap": 0.0026440417859703302
+    },
+    {
+      "feature": "Sub_metering_3_lag_24h",
+      "mean_abs_shap": 0.002592450240626931
+    },
+    {
+      "feature": "Global_reactive_power_lag_168h",
+      "mean_abs_shap": 0.0025872851256281137
+    },
+    {
+      "feature": "Global_intensity_lag_6h",
+      "mean_abs_shap": 0.0024594131391495466
+    },
+    {
+      "feature": "wind_speed_10m_lag_24h",
+      "mean_abs_shap": 0.0023929921444505453
+    },
+    {
+      "feature": "Sub_metering_1_lag_3h",
+      "mean_abs_shap": 0.0023871029261499643
+    },
+    {
+      "feature": "temperature_2m_lag_3h",
+      "mean_abs_shap": 0.00225219433195889
+    },
+    {
+      "feature": "wind_speed_10m_now",
+      "mean_abs_shap": 0.002218959154561162
+    },
+    {
+      "feature": "Global_intensity_lag_3h",
+      "mean_abs_shap": 0.002191509585827589
+    },
+    {
+      "feature": "Global_reactive_power_lag_12h",
+      "mean_abs_shap": 0.002154218964278698
+    },
+    {
+      "feature": "wind_speed_10m_lag_3h",
+      "mean_abs_shap": 0.002112723421305418
+    },
+    {
+      "feature": "temperature_2m_lag_1h",
+      "mean_abs_shap": 0.002080008154734969
+    },
+    {
+      "feature": "relative_humidity_2m_lag_6h",
+      "mean_abs_shap": 0.002003381261602044
+    },
+    {
+      "feature": "cloud_cover_lag_2h",
+      "mean_abs_shap": 0.0018657674081623554
+    },
+    {
+      "feature": "cloud_cover_now",
+      "mean_abs_shap": 0.0018590663094073534
+    },
+    {
+      "feature": "wind_speed_10m_lag_6h",
+      "mean_abs_shap": 0.0018063598545268178
+    },
+    {
+      "feature": "relative_humidity_2m_lag_2h",
+      "mean_abs_shap": 0.0017885291017591953
+    },
+    {
+      "feature": "mon_sin",
+      "mean_abs_shap": 0.0017153903609141707
+    },
+    {
+      "feature": "Sub_metering_2_lag_12h",
+      "mean_abs_shap": 0.0016730795614421368
+    },
+    {
+      "feature": "cloud_cover_lag_24h",
+      "mean_abs_shap": 0.0016233331989496946
+    },
+    {
+      "feature": "wind_speed_10m_lag_1h",
+      "mean_abs_shap": 0.0016215728828683496
+    },
+    {
+      "feature": "relative_humidity_2m_lag_3h",
+      "mean_abs_shap": 0.0015968336956575513
+    },
+    {
+      "feature": "temperature_2m_lag_6h",
+      "mean_abs_shap": 0.0015728626167401671
+    },
+    {
+      "feature": "cloud_cover_lag_1h",
+      "mean_abs_shap": 0.0015087155625224113
+    },
+    {
+      "feature": "wind_speed_10m_lag_2h",
+      "mean_abs_shap": 0.0014641341986134648
+    },
+    {
+      "feature": "dow_cos",
+      "mean_abs_shap": 0.001370898331515491
+    },
+    {
+      "feature": "apparent_temperature_lag_1h",
+      "mean_abs_shap": 0.001353071304038167
+    },
+    {
+      "feature": "cloud_cover_lag_6h",
+      "mean_abs_shap": 0.001312448875978589
+    },
+    {
+      "feature": "apparent_temperature_lag_2h",
+      "mean_abs_shap": 0.0012572380946949124
+    },
+    {
+      "feature": "precipitation_lag_24h",
+      "mean_abs_shap": 0.0012559187598526478
+    },
+    {
+      "feature": "cloud_cover_lag_3h",
+      "mean_abs_shap": 0.0012518690200522542
+    },
+    {
+      "feature": "Sub_metering_1_lag_168h",
+      "mean_abs_shap": 0.0011761735659092665
+    },
+    {
+      "feature": "Sub_metering_1_lag_24h",
+      "mean_abs_shap": 0.001140569569543004
+    },
+    {
+      "feature": "apparent_temperature_lag_3h",
+      "mean_abs_shap": 0.0011192099191248417
+    },
+    {
+      "feature": "temperature_2m_lag_2h",
+      "mean_abs_shap": 0.0011016704374924302
+    },
+    {
+      "feature": "precipitation_lag_1h",
+      "mean_abs_shap": 0.0009882434969767928
+    },
+    {
+      "feature": "Sub_metering_1_lag_48h",
+      "mean_abs_shap": 0.0009466040064580739
+    },
+    {
+      "feature": "Sub_metering_1_lag_6h",
+      "mean_abs_shap": 0.0009191182325594127
+    },
+    {
+      "feature": "precipitation_lag_6h",
+      "mean_abs_shap": 0.000693978916388005
+    },
+    {
+      "feature": "precipitation_now",
+      "mean_abs_shap": 0.0006510562379844487
+    },
+    {
+      "feature": "Sub_metering_1_lag_12h",
+      "mean_abs_shap": 0.0005583165329881012
+    },
+    {
+      "feature": "is_weekend",
+      "mean_abs_shap": 0.0005582605954259634
+    },
+    {
+      "feature": "precipitation_lag_3h",
+      "mean_abs_shap": 0.0005489010945893824
+    },
+    {
+      "feature": "precipitation_lag_2h",
+      "mean_abs_shap": 0.00035357571323402226
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[step2] cache hit: C:\Users\ЕРАСЫЛ\Desktop\diplom code\outputs\weather_extension\weather_raw.parquet
+[step2] shape=(34704, 7)  tz=Europe/Paris  range=2006-12-15 23:00:00+01:00 -> 2010-11-30 22:00:00+01:00
+[step2] head(3):
+                           temperature_2m  ...  cloud_cover
+timestamp                                  ...             
+2006-12-15 23:00:00+01:00          5.3505  ...          1.0
+2006-12-16 00:00:00+01:00          5.2505  ...          8.0
+2006-12-16 01:00:00+01:00          5.0005  ...         63.0
+
+[3 rows x 7 columns]
+[step2] nulls per column:
+{'temperature_2m': 0, 'relative_humidity_2m': 0, 'apparent_temperature': 0, 'precipitation': 0, 'wind_speed_10m': 0, 'shortwave_radiation': 0, 'cloud_cover': 0}
+[step3] cache hit: C:\Users\ЕРАСЫЛ\Desktop\diplom code\outputs\weather_extension\hourly_merged.parquet
+[step3] shape=(34157, 14)  range=2006-12-16 17:00:00+01:00 -> 2010-11-26 20:00:00+01:00
+[step3] cols=['Global_active_power', 'Global_reactive_power', 'Voltage', 'Global_intensity', 'Sub_metering_1', 'Sub_metering_2', 'Sub_metering_3', 'temperature_2m', 'relative_humidity_2m', 'apparent_temperature', 'precipitation', 'wind_speed_10m', 'shortwave_radiation', 'cloud_cover']
+[step3] head(3):
+                           Global_active_power  ...  cloud_cover
+timestamp                                       ...             
+2006-12-16 17:00:00+01:00             4.222889  ...        100.0
+2006-12-16 18:00:00+01:00             3.632200  ...        100.0
+2006-12-16 19:00:00+01:00             3.400233  ...         90.0
+
+[3 rows x 14 columns]
+[step4] cache hit: C:\Users\ЕРАСЫЛ\Desktop\diplom code\outputs\weather_extension\features_weather.parquet
+[step4] shape=(33989, 112)  features=111  (uci_lags=56, weather_lags=35, weather_now=7)
+[step4] verification passed (range 2006-12-23 17:00:00+01:00 -> 2010-11-26 20:00:00+01:00)
+[step5] boundaries: val_start=2009-09-15 19:00:00+01:00  test_start=2010-04-19 19:00:00+01:00
+[step5] train=23792 val=5098 test=5099
+[step5] train range: 2006-12-23 17:00:00+01:00 -> 2009-09-15 18:00:00+01:00
+[step5] val   range: 2009-09-15 19:00:00+01:00 -> 2010-04-19 18:00:00+01:00
+[step5] test  range: 2010-04-19 19:00:00+01:00 -> 2010-11-26 20:00:00+01:00
+[step5] temperature_2m_now train mean = 11.338 C (Paris annual mean ~12 C: OK)
+[step5] scaler n_features_in_ = 111
+[step6] cache hit: C:\Users\ЕРАСЫЛ\Desktop\diplom code\outputs\weather_extension\xgb_weather_model.json + C:\Users\ЕРАСЫЛ\Desktop\diplom code\outputs\weather_extension\pred_xgb_weather.npy
+[step6] full test (5099 rows):    {'RMSE': 0.43791514955147104, 'MAE': 0.29929816224461303, 'R2': 0.6193039958488938, 'MAPE': 38.95122246262717}
+[step6] aligned (5075 rows): {'RMSE': 0.4383833602869814, 'MAE': 0.29947113832584193, 'R2': 0.6187008736901605, 'MAPE': 39.00171452736917}
+[step6] ΔRMSE = -0.0018 (-0.41%)
+[step6] ΔR²   = +0.0031 (+0.50%)
+[step6] saved comparison.csv:
+                              model  n_features     RMSE      MAE       R2      MAPE
+     XGBoost (original 69 features)          69 0.440200 0.300800 0.615600 39.360000
+XGBoost (with weather 111 features)         111 0.438383 0.299471 0.618701 39.001715
+[step7] top 10:
+   1. Global_intensity_lag_1h              mean|SHAP|=0.3519  [lag]
+   2. Global_active_power_lag_1h           mean|SHAP|=0.1082  [lag]
+   3. Sub_metering_3_lag_1h                mean|SHAP|=0.0780  [lag]
+   4. hour_cos                             mean|SHAP|=0.0450  [time]
+   5. hour_sin                             mean|SHAP|=0.0360  [time]
+   6. Sub_metering_3_lag_2h                mean|SHAP|=0.0300  [lag]
+   7. Global_intensity_lag_168h            mean|SHAP|=0.0268  [lag]
+   8. Sub_metering_1_lag_1h                mean|SHAP|=0.0192  [lag]
+   9. shortwave_radiation_now              mean|SHAP|=0.0180  [weather_now]
+  10. Global_active_power_lag_168h         mean|SHAP|=0.0170  [lag]
+[step7] weather features in top 20: 3
+[step8] ALL OUTPUT FILES VERIFIED
+
+=== WEATHER EXTENSION RESULTS ===
+
+Dataset:         UCI IHEPC, Sceaux, France, hourly (2006-2010)
+Weather source:  Open-Meteo Historical API (archive-api.open-meteo.com)
+Weather vars:    temperature_2m, relative_humidity_2m, apparent_temperature,
+                 precipitation, wind_speed_10m, shortwave_radiation, cloud_cover
+Weather lags:    {1, 2, 3, 6, 24} hours + current-hour values
+New features:    42 (35 lag + 7 current-hour)
+Total features:  111 (69 original + 42 weather)
+
+--- Test Set Results (aligned 5,075-hour window) ---
+
+Metric       | Original (69 feat) | Weather (111 feat) | Delta    | Pct change
+-------------|--------------------|--------------------|----------|----------
+RMSE (kW)    | 0.4402             | 0.4384             |  -0.0018 |   -0.41%
+MAE  (kW)    | 0.3008             | 0.2995             |  -0.0013 |   -0.44%
+R^2          | 0.6156             | 0.6187             |  +0.0031 |   +0.50%
+MAPE (%)     | 39.3600            | 39.0017            |  -0.3583 |   -0.91%
+
+--- Top weather features by SHAP importance ---
+Rank  Feature                                Mean |SHAP|
+   1  shortwave_radiation_now                0.0180
+   2  shortwave_radiation_lag_1h             0.0126
+   3  temperature_2m_lag_24h                 0.0101
+   4  shortwave_radiation_lag_24h            0.0083
+   5  shortwave_radiation_lag_2h             0.0080
+   6  shortwave_radiation_lag_6h             0.0048
+   7  relative_humidity_2m_lag_1h            0.0046
+   8  apparent_temperature_now               0.0041
+   9  relative_humidity_2m_now               0.0040
+  10  temperature_2m_now                     0.0034
+
+--- Interpretation ---
+Weather features provide marginal improvement; the dominant signal remains autoregressive lag structure of the household load itself.
+
+=== END OF REPORT ===

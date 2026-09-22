@@ -1,0 +1,281 @@
+{
+  "sample_size": 500,
+  "ranking": [
+    {
+      "feature": "Global_intensity_lag_1h",
+      "mean_abs_shap": 0.34788545966148376
+    },
+    {
+      "feature": "Global_active_power_lag_1h",
+      "mean_abs_shap": 0.1161717101931572
+    },
+    {
+      "feature": "Sub_metering_3_lag_1h",
+      "mean_abs_shap": 0.0795501247048378
+    },
+    {
+      "feature": "hour_cos",
+      "mean_abs_shap": 0.05666670203208923
+    },
+    {
+      "feature": "hour_sin",
+      "mean_abs_shap": 0.03930855169892311
+    },
+    {
+      "feature": "Global_intensity_lag_168h",
+      "mean_abs_shap": 0.03493714705109596
+    },
+    {
+      "feature": "Sub_metering_3_lag_2h",
+      "mean_abs_shap": 0.030561815947294235
+    },
+    {
+      "feature": "Global_intensity_lag_24h",
+      "mean_abs_shap": 0.022948918864130974
+    },
+    {
+      "feature": "mon_cos",
+      "mean_abs_shap": 0.02075011469423771
+    },
+    {
+      "feature": "Sub_metering_1_lag_1h",
+      "mean_abs_shap": 0.018308578059077263
+    },
+    {
+      "feature": "Global_active_power_rstd_6h",
+      "mean_abs_shap": 0.016439123079180717
+    },
+    {
+      "feature": "Sub_metering_2_lag_2h",
+      "mean_abs_shap": 0.016079111024737358
+    },
+    {
+      "feature": "Sub_metering_2_lag_1h",
+      "mean_abs_shap": 0.01557045429944992
+    },
+    {
+      "feature": "Global_intensity_lag_48h",
+      "mean_abs_shap": 0.015386587008833885
+    },
+    {
+      "feature": "Global_active_power_lag_24h",
+      "mean_abs_shap": 0.01447243895381689
+    },
+    {
+      "feature": "Global_active_power_lag_168h",
+      "mean_abs_shap": 0.013829111121594906
+    },
+    {
+      "feature": "Global_active_power_rmean_6h",
+      "mean_abs_shap": 0.010937427170574665
+    },
+    {
+      "feature": "Global_intensity_lag_12h",
+      "mean_abs_shap": 0.010400869883596897
+    },
+    {
+      "feature": "Global_active_power_lag_12h",
+      "mean_abs_shap": 0.0099276602268219
+    },
+    {
+      "feature": "Global_active_power_lag_2h",
+      "mean_abs_shap": 0.009724767878651619
+    },
+    {
+      "feature": "Global_reactive_power_lag_1h",
+      "mean_abs_shap": 0.009546145796775818
+    },
+    {
+      "feature": "dow_sin",
+      "mean_abs_shap": 0.008803841657936573
+    },
+    {
+      "feature": "Voltage_lag_6h",
+      "mean_abs_shap": 0.008742022328078747
+    },
+    {
+      "feature": "Global_active_power_lag_48h",
+      "mean_abs_shap": 0.008710227906703949
+    },
+    {
+      "feature": "Sub_metering_2_lag_3h",
+      "mean_abs_shap": 0.007891307584941387
+    },
+    {
+      "feature": "Voltage_lag_48h",
+      "mean_abs_shap": 0.00783323310315609
+    },
+    {
+      "feature": "Voltage_lag_24h",
+      "mean_abs_shap": 0.007463586051017046
+    },
+    {
+      "feature": "Sub_metering_1_lag_2h",
+      "mean_abs_shap": 0.007186148315668106
+    },
+    {
+      "feature": "Sub_metering_2_lag_168h",
+      "mean_abs_shap": 0.0064343842677772045
+    },
+    {
+      "feature": "Global_reactive_power_lag_2h",
+      "mean_abs_shap": 0.006398102268576622
+    },
+    {
+      "feature": "Voltage_lag_12h",
+      "mean_abs_shap": 0.005897914990782738
+    },
+    {
+      "feature": "Global_reactive_power_lag_3h",
+      "mean_abs_shap": 0.005851282738149166
+    },
+    {
+      "feature": "Global_active_power_rmean_3h",
+      "mean_abs_shap": 0.0057507287710905075
+    },
+    {
+      "feature": "Global_reactive_power_lag_6h",
+      "mean_abs_shap": 0.00562200928106904
+    },
+    {
+      "feature": "Voltage_lag_3h",
+      "mean_abs_shap": 0.005527892615646124
+    },
+    {
+      "feature": "Voltage_lag_168h",
+      "mean_abs_shap": 0.005282794125378132
+    },
+    {
+      "feature": "Sub_metering_3_lag_3h",
+      "mean_abs_shap": 0.005164250265806913
+    },
+    {
+      "feature": "Global_reactive_power_lag_24h",
+      "mean_abs_shap": 0.005138077773153782
+    },
+    {
+      "feature": "Global_intensity_lag_2h",
+      "mean_abs_shap": 0.00479287700727582
+    },
+    {
+      "feature": "Global_active_power_rstd_3h",
+      "mean_abs_shap": 0.004645743407309055
+    },
+    {
+      "feature": "Sub_metering_3_lag_6h",
+      "mean_abs_shap": 0.004546609707176685
+    },
+    {
+      "feature": "Global_active_power_rstd_24h",
+      "mean_abs_shap": 0.00451262854039669
+    },
+    {
+      "feature": "Global_reactive_power_lag_12h",
+      "mean_abs_shap": 0.004229045007377863
+    },
+    {
+      "feature": "Voltage_lag_2h",
+      "mean_abs_shap": 0.004164773505181074
+    },
+    {
+      "feature": "Global_active_power_rmean_24h",
+      "mean_abs_shap": 0.003988321870565414
+    },
+    {
+      "feature": "Sub_metering_3_lag_48h",
+      "mean_abs_shap": 0.0038849120028316975
+    },
+    {
+      "feature": "Sub_metering_3_lag_168h",
+      "mean_abs_shap": 0.003602808341383934
+    },
+    {
+      "feature": "Sub_metering_3_lag_24h",
+      "mean_abs_shap": 0.0033652661368250847
+    },
+    {
+      "feature": "Global_active_power_lag_3h",
+      "mean_abs_shap": 0.0032590131741017103
+    },
+    {
+      "feature": "Sub_metering_2_lag_48h",
+      "mean_abs_shap": 0.0032064763363450766
+    },
+    {
+      "feature": "Voltage_lag_1h",
+      "mean_abs_shap": 0.0031900957692414522
+    },
+    {
+      "feature": "Sub_metering_3_lag_12h",
+      "mean_abs_shap": 0.0031420220620930195
+    },
+    {
+      "feature": "Global_active_power_lag_6h",
+      "mean_abs_shap": 0.002971233334392309
+    },
+    {
+      "feature": "Global_reactive_power_lag_168h",
+      "mean_abs_shap": 0.0029355306178331375
+    },
+    {
+      "feature": "Sub_metering_2_lag_6h",
+      "mean_abs_shap": 0.002926535438746214
+    },
+    {
+      "feature": "Global_reactive_power_lag_48h",
+      "mean_abs_shap": 0.0028783788438886404
+    },
+    {
+      "feature": "Sub_metering_1_lag_3h",
+      "mean_abs_shap": 0.002757331123575568
+    },
+    {
+      "feature": "Sub_metering_2_lag_24h",
+      "mean_abs_shap": 0.0026331916451454163
+    },
+    {
+      "feature": "mon_sin",
+      "mean_abs_shap": 0.002437448129057884
+    },
+    {
+      "feature": "Global_intensity_lag_3h",
+      "mean_abs_shap": 0.002243167720735073
+    },
+    {
+      "feature": "Global_intensity_lag_6h",
+      "mean_abs_shap": 0.0020542400889098644
+    },
+    {
+      "feature": "Sub_metering_2_lag_12h",
+      "mean_abs_shap": 0.0018869222840294242
+    },
+    {
+      "feature": "Sub_metering_1_lag_168h",
+      "mean_abs_shap": 0.0014270965475589037
+    },
+    {
+      "feature": "dow_cos",
+      "mean_abs_shap": 0.0014135448727756739
+    },
+    {
+      "feature": "Sub_metering_1_lag_24h",
+      "mean_abs_shap": 0.0011330683482810855
+    },
+    {
+      "feature": "Sub_metering_1_lag_48h",
+      "mean_abs_shap": 0.0010369066148996353
+    },
+    {
+      "feature": "Sub_metering_1_lag_6h",
+      "mean_abs_shap": 0.000904419575817883
+    },
+    {
+      "feature": "is_weekend",
+      "mean_abs_shap": 0.0008466134895570576
+    },
+    {
+      "feature": "Sub_metering_1_lag_12h",
+      "mean_abs_shap": 0.0008203599718399346
+    }
+  ]
+}

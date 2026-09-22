@@ -1,0 +1,23 @@
+{
+  "params": {
+    "n_estimators": 1100,
+    "max_depth": 5,
+    "learning_rate": 0.024690449127761714,
+    "subsample": 0.9304810602736965,
+    "colsample_bytree": 0.8002909474624988,
+    "min_child_weight": 3,
+    "reg_alpha": 0.6064869790542058,
+    "reg_lambda": 0.06925811350935535,
+    "gamma": 0.0022045210293666745
+  },
+  "meta": {
+    "best_val_rmse": 0.49982586100614823,
+    "best_iteration_in_search": 867,
+    "n_trials": 40,
+    "n_completed_trials": 40,
+    "train_size": 28890,
+    "default_test_rmse": 0.439625176403256,
+    "tuned_test_rmse": 0.43758079949311846,
+    "delta_rmse": -0.0020443769101375353
+  }
+}

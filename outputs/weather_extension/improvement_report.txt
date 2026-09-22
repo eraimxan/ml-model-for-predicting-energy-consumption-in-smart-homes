@@ -1,0 +1,36 @@
+=== WEATHER EXTENSION RESULTS ===
+
+Dataset:         UCI IHEPC, Sceaux, France, hourly (2006-2010)
+Weather source:  Open-Meteo Historical API (archive-api.open-meteo.com)
+Weather vars:    temperature_2m, relative_humidity_2m, apparent_temperature,
+                 precipitation, wind_speed_10m, shortwave_radiation, cloud_cover
+Weather lags:    {1, 2, 3, 6, 24} hours + current-hour values
+New features:    42 (35 lag + 7 current-hour)
+Total features:  111 (69 original + 42 weather)
+
+--- Test Set Results (aligned 5,075-hour window) ---
+
+Metric       | Original (69 feat) | Weather (111 feat) | Delta    | Pct change
+-------------|--------------------|--------------------|----------|----------
+RMSE (kW)    | 0.4402             | 0.4384             |  -0.0018 |   -0.41%
+MAE  (kW)    | 0.3008             | 0.2995             |  -0.0013 |   -0.44%
+R^2          | 0.6156             | 0.6187             |  +0.0031 |   +0.50%
+MAPE (%)     | 39.3600            | 39.0017            |  -0.3583 |   -0.91%
+
+--- Top weather features by SHAP importance ---
+Rank  Feature                                Mean |SHAP|
+   1  shortwave_radiation_now                0.0180
+   2  shortwave_radiation_lag_1h             0.0126
+   3  temperature_2m_lag_24h                 0.0101
+   4  shortwave_radiation_lag_24h            0.0083
+   5  shortwave_radiation_lag_2h             0.0080
+   6  shortwave_radiation_lag_6h             0.0048
+   7  relative_humidity_2m_lag_1h            0.0046
+   8  apparent_temperature_now               0.0041
+   9  relative_humidity_2m_now               0.0040
+  10  temperature_2m_now                     0.0034
+
+--- Interpretation ---
+Weather features provide marginal improvement; the dominant signal remains autoregressive lag structure of the household load itself.
+
+=== END OF REPORT ===

@@ -1,0 +1,9 @@
+{
+  "predicted_kw": 1.8254,
+  "timestamp_predicted": "2010-11-26T21:00:00",
+  "model": "XGBoost",
+  "rmse_kw": 0.4402,
+  "r2": 0.6156,
+  "feature_count": 69,
+  "warning": null
+}
